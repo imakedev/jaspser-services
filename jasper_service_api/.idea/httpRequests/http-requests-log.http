@@ -1,0 +1,12 @@
+GET http://localhost:8000/generate?param_data=[ "Ford", "BMW", "Fiat" ]&template_name=Appraisal_Report&template_format=pdf&template_name=Appraisal_Report&template_format=pdf
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/generate?param_data=[ "Ford", "BMW", "Fiat" ]&template_name=Appraisal_Report&template_format=pdf
+Accept: */*
+Cache-Control: no-cache
+
+###
+
